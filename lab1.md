@@ -1,4 +1,4 @@
-![Image](cd1.png)
+![Image](cd1.png) <br>
 @khushiborana ➜ /workspaces/khushiborana.github.io (main) $
 The command did not change the directory because the directory name was not specified in the command as an argument
 Not an error because we did not specify anything to be changed to
